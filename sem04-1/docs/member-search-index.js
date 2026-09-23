@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Ejem1","l":"Ejem1()","u":"%3Cinit%3E()","k":"3"},{"p":"<Unnamed>","c":"Ejem1","l":"factorial(int)"},{"p":"<Unnamed>","c":"Ejem1","l":"seno(double)"}];updateSearchResults();
