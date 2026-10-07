@@ -1,0 +1,13 @@
+Ejercicio
+---------
+Indicar las clases (con atributos) que se necesitan para implementar un sistema parecido a UBER.
+
+Conductor
+Pasajero
+Automóvil
+Viaje
+Ubicación
+Servicio
+Calificación
+Cobranza
+
