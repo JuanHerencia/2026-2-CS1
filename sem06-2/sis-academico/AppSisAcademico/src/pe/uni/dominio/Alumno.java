@@ -28,7 +28,7 @@ public record Alumno( // estructura apara registrar datos
             throw new ValidacionException("La edad del alumno debe estar entre 15 y 100 años");
         }
         
-        if(codigo == null || codigo.isBlank()) {
+        if(carrera == null || carrera.isBlank()) {
             throw new ValidacionException("El código del alumno es obligatorio");
         }
     }
